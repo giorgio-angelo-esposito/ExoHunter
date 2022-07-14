@@ -1,18 +1,3 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Wed Jul 13 07:17:05 2022
-#
-# User preference: *
-#
-# CONSTRAINT:  where (koi_disposition like '%FALSE%')
-#
-# COLUMN kepid:          KepID
-# COLUMN kepler_name:    Kepler Name
-# COLUMN koi_disposition: Exoplanet Archive Disposition
-# COLUMN koi_fpflag_nt:  Not Transit-Like False Positive Flag
-# COLUMN koi_fpflag_ss:  Stellar Eclipse False Positive Flag
-# COLUMN koi_model_snr:  Transit Signal-to-Noise
-# COLUMN koi_num_transits: Number of Transits
-#
 kepid,kepler_name,koi_disposition,koi_fpflag_nt,koi_fpflag_ss,koi_model_snr,koi_num_transits
 10848459,,FALSE POSITIVE,0,1,505.60,621
 6721123,,FALSE POSITIVE,0,1,47.70,185
